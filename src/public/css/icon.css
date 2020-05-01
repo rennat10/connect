@@ -1,0 +1,7 @@
+.lock:hover #icon,
+.lock #iconhover {
+    display: none;
+}
+.lock:hover #iconhover {
+    display: inline;
+}

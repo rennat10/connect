@@ -1,0 +1,15 @@
+#statusInputDiv {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* background-color: white; */
+}
+
+#statusInput {
+    margin-left: 5%;
+    width: 90%;
+    /* border: none; */
+    outline: none;
+    border-radius: 6px; 
+
+}
